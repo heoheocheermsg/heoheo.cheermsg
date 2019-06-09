@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fortunecookie/static/css/main.12161e6a.chunk.css",
+    "main.js": "/fortunecookie/static/js/main.dda49531.chunk.js",
+    "main.js.map": "/fortunecookie/static/js/main.dda49531.chunk.js.map",
+    "runtime~main.js": "/fortunecookie/static/js/runtime~main.b3c2c40e.js",
+    "runtime~main.js.map": "/fortunecookie/static/js/runtime~main.b3c2c40e.js.map",
+    "static/js/2.f0acff67.chunk.js": "/fortunecookie/static/js/2.f0acff67.chunk.js",
+    "static/js/2.f0acff67.chunk.js.map": "/fortunecookie/static/js/2.f0acff67.chunk.js.map",
+    "index.html": "/fortunecookie/index.html",
+    "precache-manifest.d36eed7c39d51020624b1a5400797ec2.js": "/fortunecookie/precache-manifest.d36eed7c39d51020624b1a5400797ec2.js",
+    "service-worker.js": "/fortunecookie/service-worker.js",
+    "static/css/main.12161e6a.chunk.css.map": "/fortunecookie/static/css/main.12161e6a.chunk.css.map",
+    "static/media/App.css": "/fortunecookie/static/media/fortune.2d8a000d.jpg"
+  }
+}
