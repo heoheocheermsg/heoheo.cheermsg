@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fortunecookie/static/css/main.12161e6a.chunk.css",
-    "main.js": "/fortunecookie/static/js/main.dda49531.chunk.js",
-    "main.js.map": "/fortunecookie/static/js/main.dda49531.chunk.js.map",
-    "runtime~main.js": "/fortunecookie/static/js/runtime~main.b3c2c40e.js",
-    "runtime~main.js.map": "/fortunecookie/static/js/runtime~main.b3c2c40e.js.map",
-    "static/js/2.f0acff67.chunk.js": "/fortunecookie/static/js/2.f0acff67.chunk.js",
-    "static/js/2.f0acff67.chunk.js.map": "/fortunecookie/static/js/2.f0acff67.chunk.js.map",
-    "index.html": "/fortunecookie/index.html",
-    "precache-manifest.d36eed7c39d51020624b1a5400797ec2.js": "/fortunecookie/precache-manifest.d36eed7c39d51020624b1a5400797ec2.js",
-    "service-worker.js": "/fortunecookie/service-worker.js",
-    "static/css/main.12161e6a.chunk.css.map": "/fortunecookie/static/css/main.12161e6a.chunk.css.map",
-    "static/media/App.css": "/fortunecookie/static/media/fortune.2d8a000d.jpg"
+    "main.css": "/heoheo.cheermsg/static/css/main.7b123e3d.chunk.css",
+    "main.js": "/heoheo.cheermsg/static/js/main.941e4f81.chunk.js",
+    "main.js.map": "/heoheo.cheermsg/static/js/main.941e4f81.chunk.js.map",
+    "runtime~main.js": "/heoheo.cheermsg/static/js/runtime~main.68adb212.js",
+    "runtime~main.js.map": "/heoheo.cheermsg/static/js/runtime~main.68adb212.js.map",
+    "static/js/2.f0acff67.chunk.js": "/heoheo.cheermsg/static/js/2.f0acff67.chunk.js",
+    "static/js/2.f0acff67.chunk.js.map": "/heoheo.cheermsg/static/js/2.f0acff67.chunk.js.map",
+    "index.html": "/heoheo.cheermsg/index.html",
+    "precache-manifest.a7992d8922f3f3938f783b89587e64bd.js": "/heoheo.cheermsg/precache-manifest.a7992d8922f3f3938f783b89587e64bd.js",
+    "service-worker.js": "/heoheo.cheermsg/service-worker.js",
+    "static/css/main.7b123e3d.chunk.css.map": "/heoheo.cheermsg/static/css/main.7b123e3d.chunk.css.map",
+    "static/media/App.css": "/heoheo.cheermsg/static/media/fortune.2d8a000d.jpg"
   }
 }
